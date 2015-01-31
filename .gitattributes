@@ -1,4 +1,5 @@
 # Set default behaviour, in case users don't have core.autocrlf set.
+# I am currently forking a project and making an edit to the file.
 * text=auto
 
 # Set to always use Windows line endings
